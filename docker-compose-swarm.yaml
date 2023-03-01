@@ -6,7 +6,7 @@ services:
     ports:
       - 8080:8080
     volumes:
-      - "/home/vagrant/SoftUni/web/src:/var/www/html:ro"
+      - "/home/vagrant/bg-app/web:/var/www/html:ro"
     networks:
       - app
   db:
