@@ -1,1 +1,0 @@
-BGApp Demo Project
